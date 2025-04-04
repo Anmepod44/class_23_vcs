@@ -1,0 +1,23 @@
+commit 7b2792002eb1c6d115cd6f1df2ed8ea85a178eb8
+Author: MARVIN-NEW <mnyaranga44@gmail.com>
+Date:   Fri Apr 4 03:16:44 2025 +0300
+
+    a change on my greetings file
+
+commit dbaeaf2df2e9b4ab904d3fa289adfc55d8469b2d
+Author: MARVIN-NEW <mnyaranga44@gmail.com>
+Date:   Fri Apr 4 03:15:46 2025 +0300
+
+    changes to hello.sh
+
+commit 56f2e6fbd35259dd13a647a1ec59d6a95e9db942
+Author: MARVIN-NEW <mnyaranga44@gmail.com>
+Date:   Fri Apr 4 03:12:02 2025 +0300
+
+    my greetings.sh
+
+commit 65fb97cb46d00d717fd58ef7d59e6962d6132b68
+Author: MARVIN-NEW <mnyaranga44@gmail.com>
+Date:   Fri Apr 4 03:07:22 2025 +0300
+
+    This is my first commmit from class 23
